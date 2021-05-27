@@ -51,7 +51,7 @@
         "flarum/likes": "^0.1.0",
         "flarum/lock": "^0.1.0",
         "flarum/markdown": "^0.1.0",
-        "flarum/mentions": "^0.1.0",
+        "flarum/mentions": "^0.1.0-beta",
         "flarum/pusher": "^0.1.0",
         "flarum/statistics": "^0.1.0",
         "flarum/sticky": "^0.1.0",
